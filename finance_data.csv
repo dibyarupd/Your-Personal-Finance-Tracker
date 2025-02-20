@@ -1,0 +1,112 @@
+Date,Amount,Category,Description
+01-03-2024,2700.50,Income,Salary
+03-03-2024,430.75,Expense,Groceries
+05-03-2024,3200.40,Income,Freelance Work
+08-03-2024,582.20,Expense,Transport
+10-03-2024,3910.60,Income,Investment Return
+12-03-2024,728.95,Expense,Medical
+15-03-2024,2050.35,Income,Salary
+18-03-2024,118.45,Expense,Entertainment
+20-03-2024,3552.80,Income,Freelance Work
+22-03-2024,612.30,Expense,Utilities
+25-03-2024,2800.10,Income,Bonus
+27-03-2024,522.70,Expense,Insurance
+30-03-2024,2975.45,Income,Investment Return
+02-04-2024,275.60,Expense,Dining Out
+05-04-2024,3478.90,Income,Freelance Work
+08-04-2024,842.50,Expense,Medical
+10-04-2024,3915.80,Income,Salary
+13-04-2024,451.65,Expense,Transport
+15-04-2024,2460.30,Income,Freelance Work
+18-04-2024,350.75,Expense,Groceries
+21-04-2024,4205.60,Income,Investment Return
+23-04-2024,512.45,Expense,Utilities
+25-04-2024,3078.90,Income,Salary
+28-04-2024,798.50,Expense,Insurance
+01-05-2024,2712.40,Income,Freelance Work
+03-05-2024,634.85,Expense,Medical
+06-05-2024,3625.25,Income,Investment Return
+09-05-2024,515.70,Expense,Entertainment
+11-05-2024,2095.55,Income,Freelance Work
+14-05-2024,482.95,Expense,Dining Out
+16-05-2024,3310.60,Income,Salary
+18-05-2024,569.80,Expense,Transport
+20-05-2024,4590.30,Income,Investment Return
+23-05-2024,563.45,Expense,Utilities
+26-05-2024,2710.20,Income,Freelance Work
+29-05-2024,850.35,Expense,Medical
+01-06-2024,3375.80,Income,Salary
+04-06-2024,471.50,Expense,Groceries
+07-06-2024,4982.20,Income,Freelance Work
+09-06-2024,632.75,Expense,Entertainment
+12-06-2024,2591.60,Income,Bonus
+14-06-2024,710.45,Expense,Insurance
+17-06-2024,3482.30,Income,Freelance Work
+20-06-2024,598.30,Expense,Transport
+23-06-2024,2912.15,Income,Salary
+25-06-2024,345.60,Expense,Medical
+28-06-2024,4200.50,Income,Investment Return
+30-06-2024,529.75,Expense,Utilities
+03-07-2024,2820.25,Income,Freelance Work
+06-07-2024,550.30,Expense,Groceries
+09-07-2024,3875.40,Income,Salary
+11-07-2024,402.10,Expense,Dining Out
+14-07-2024,3145.30,Income,Investment Return
+17-07-2024,475.95,Expense,Entertainment
+20-07-2024,2841.15,Income,Freelance Work
+22-07-2024,510.60,Expense,Medical
+25-07-2024,3800.75,Income,Salary
+28-07-2024,479.80,Expense,Transport
+31-07-2024,2125.95,Income,Investment Return
+03-08-2024,635.25,Expense,Groceries
+06-08-2024,3600.10,Income,Freelance Work
+09-08-2024,412.60,Expense,Utilities
+12-08-2024,2705.45,Income,Bonus
+14-08-2024,528.35,Expense,Medical
+17-08-2024,3420.20,Income,Freelance Work
+20-08-2024,465.85,Expense,Entertainment
+23-08-2024,2950.10,Income,Investment Return
+26-08-2024,477.90,Expense,Transport
+29-08-2024,2045.30,Income,Salary
+01-09-2024,558.10,Expense,Groceries
+03-09-2024,3845.70,Income,Freelance Work
+06-09-2024,635.60,Expense,Insurance
+09-09-2024,2930.90,Income,Salary
+12-09-2024,547.35,Expense,Medical
+15-09-2024,4725.50,Income,Investment Return
+18-09-2024,601.30,Expense,Utilities
+21-09-2024,2681.15,Income,Freelance Work
+24-09-2024,520.85,Expense,Dining Out
+27-09-2024,3852.30,Income,Bonus
+30-09-2024,476.95,Expense,Entertainment
+02-10-2024,3140.15,Income,Freelance Work
+05-10-2024,455.45,Expense,Transport
+08-10-2024,2856.70,Income,Salary
+11-10-2024,631.60,Expense,Groceries
+14-10-2024,3409.75,Income,Investment Return
+17-10-2024,512.90,Expense,Utilities
+20-10-2024,3276.30,Income,Freelance Work
+23-10-2024,475.80,Expense,Medical
+26-10-2024,2860.40,Income,Salary
+29-10-2024,536.30,Expense,Dining Out
+01-11-2024,4935.25,Income,Investment Return
+03-11-2024,575.70,Expense,Insurance
+06-11-2024,3410.55,Income,Freelance Work
+09-11-2024,616.45,Expense,Entertainment
+12-11-2024,2901.90,Income,Bonus
+15-11-2024,495.30,Expense,Transport
+18-11-2024,3660.20,Income,Salary
+21-11-2024,620.40,Expense,Medical
+24-11-2024,2789.60,Income,Investment Return
+27-11-2024,497.70,Expense,Groceries
+30-11-2024,3250.15,Income,Freelance Work
+03-12-2024,489.10,Expense,Utilities
+06-12-2024,2598.30,Income,Salary
+09-12-2024,537.60,Expense,Dining Out
+12-12-2024,3820.20,Income,Investment Return
+15-12-2024,612.80,Expense,Medical
+18-12-2024,3312.90,Income,Freelance Work
+21-12-2024,585.90,Expense,Entertainment
+24-12-2024,2704.80,Income,Salary
+27-12-2024,432.60,Expense,Transport
+30-12-2024,4100.35,Income,Freelance Work
